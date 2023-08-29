@@ -1,4 +1,4 @@
-!Jase's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaseKoonce&theme=dark&show_icons=true&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaseKoonce&theme=dark&layout=compact)
+![Jase's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaseKoonce&theme=dark&show_icons=true&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaseKoonce&theme=dark&layout=compact)
 
 👋 Hello, I'm Jase Koonce!
 👨‍💻 Kubernetes Engineer at Defense Unicorns
