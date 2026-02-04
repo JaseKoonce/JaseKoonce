@@ -1,5 +1,3 @@
-![Jase's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaseKoonce&theme=dark&show_icons=true&layout=compact)
-
 👋 Hello, I'm Jase Koonce!
 👨‍💻 Kubernetes Engineer at Defense Unicorns
 🔭 About Me
